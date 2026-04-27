@@ -1,2 +1,7 @@
-# demo-consultorio-dental-squarzon
-Demo web para Consultorio Dental Squarzon — diseñada por eterlab.
+# Consultorio Dental Squarzon
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
